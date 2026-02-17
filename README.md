@@ -1,3 +1,3 @@
 author : harshkumar.mac@gmail.com <br>
-Assignments PYTHON Trainning & Placment Batch @ 2027 
+Assignments PYTHON Training & Placement Batch @ 2027 
 
